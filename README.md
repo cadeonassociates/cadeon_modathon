@@ -1,5 +1,7 @@
 **Multi-Series Mod**
 
+See the video in file Cadeon Multi-Series Mod Demo.mp4 for instructions on how to use the mod.
+
 Cadeon&#39;s Multi-Series mod is designed visualize multiple series of data (x1, y1, x2, y2) on a line chart. New users of Spotfire are usually familiar with plotting data in Excel, where data sets are configured as series of x and y. The Multi-Series mod allows users to retain the same data structure to create line charts. Each series of (x,y) data can be placed side by side and brought into Spotfire as one table.
 
 ![alt text](https://github.com/cadeonassociates/cadeon_modathon/blob/main/Picture1.png?raw=true)
